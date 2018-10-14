@@ -34,7 +34,7 @@ ROW #3 is invalid.
 Invalid Sudoku
 ```
 
-## Authors
+## Author(s)
 
 | Name                    | GitHub                                     | Email
 | ----------------------- | ------------------------------------------ | -------------------------
